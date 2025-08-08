@@ -26,8 +26,7 @@ def load_data():
     df.set_index('time', inplace=True)
     return df 
 
-# creación primer branch
-# commit repositorio remoto    
+# solicitud PR 
 
 # Cargar datos
 data = load_data()
